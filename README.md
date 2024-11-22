@@ -1,19 +1,18 @@
-## Hi there 👋
 
-<!--
-**achraf-bogryn/achraf-bogryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#👋 Hi, I'm Achraf Bogryn
+ Here's a little about me:
+
+🔭 I’m currently working on: Innovative AI and data science projects, including 3D Web Development using Three.js.
+🌱 I’m currently learning: Advanced techniques in Machine Learning and 3D Computer Vision.
+👯 I’m looking to collaborate on: Projects related to Data Science, AI Development,Data Science , and Full Stack Web Applications.
+🤔 I’m looking for help with: Exploring cloud-based AI solutions and improving performance in large-scale web systems.
+💬 Ask me about: Machine Learning, Deep Learning, Spring, and TensorFlow.
+📫 How to reach me: LinkedIn or via email at achraf.bogryn@um5r.ac.ma.
+😄 Pronouns: He/Him
+⚡ Fun fact: I once created an AI project that solved Sudoku puzzles faster than I could!
+
 
 
 ## 🌐 Socials:
@@ -26,8 +25,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=achraf-bogryn&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-bogryn&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=achraf-bogryn&icon=0&color=3)](https://visitcount.itsvg.in)
