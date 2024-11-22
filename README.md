@@ -4,14 +4,14 @@
 # 👋 Hi, I'm Achraf Bogryn
  Here's a little about me:
 
-* 🔭 I’m currently working on: Innovative AI and data science projects, including 3D Web Development using Three.js.
-* 🌱 I’m currently learning: Advanced techniques in Machine Learning and 3D Computer Vision.
+* 🔭 I’m currently working on: Innovative AI and data science projects, including 3D Web Development using Three.js and compuetr vsion projects.
+* 🌱 I’m currently learning: Intermediate techniques in Machine Learning and 3D Computer Vision.
 * 👯 I’m looking to collaborate on: Projects related to Data Science, AI Development,Data Science , and Full Stack Web Applications.
 * 🤔 I’m looking for help with: Exploring cloud-based AI solutions and improving performance in large-scale web systems.
 * 💬 Ask me about: Machine Learning, Deep Learning, Spring, and TensorFlow.
 * 📫 How to reach me: LinkedIn or via email at achraf.bogryn@um5r.ac.ma.
 * 😄 Pronouns: He/Him
-* ⚡ Fun fact: I once created an AI project that solved Sudoku puzzles faster than I could!
+* ⚡ Fun fact: I developed a deep learning model using TensorFlow and Transfer Learning to recognize different types of food!
 
 
 
