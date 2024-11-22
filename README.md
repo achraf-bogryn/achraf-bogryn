@@ -1,7 +1,7 @@
 
 
 
-#👋 Hi, I'm Achraf Bogryn
+# 👋 Hi, I'm Achraf Bogryn
  Here's a little about me:
 
 * 🔭 I’m currently working on: Innovative AI and data science projects, including 3D Web Development using Three.js.
