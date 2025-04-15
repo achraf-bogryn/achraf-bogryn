@@ -113,6 +113,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
 
+### 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achraf-bogryn&show_icons=true&locale=en&layout=compact" alt="achraf-bogryn" /></p>
 
