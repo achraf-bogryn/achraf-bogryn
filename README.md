@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm achraf Bogryn</h1>
 <h3 align="center">A Passionate Data Science and MLOps</h3>
+<h2 align="left">
+<abc>
+  <br>
+  <div align="right">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  </div>
+</abc>
 
+</h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achraf-bogryn&label=Profile%20views&color=0e75b6&style=flat" alt="achraf-bogryn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achraf-bogryn" alt="achraf-bogryn" /></a> </p>
@@ -37,3 +45,86 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achraf-bogryn&show_icons=true&locale=en" alt="achraf-bogryn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achraf-bogryn&" alt="achraf-bogryn" /></p>
+
+**🐱 My GitHub Data** 
+
+> 🏆 6 Contributions in the Year 2025
+ > 
+> 📦 138.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    6 commits      ███████████████░░░░░░░░░░   60.0% 
+🌃 Evening    4 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    4 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+Thursday     2 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Sunday       3 commits      ███████░░░░░░░░░░░░░░░░░░   30.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   16 hrs 24 mins      █████████████████░░░░░░░░   71.24% 
+Markdown                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
+YAML                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Text                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+Makefile                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+
+🔥 Editors: 
+PyCharm                  23 hrs 2 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      23 hrs 2 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ██████████████░░░░░░░░░░░   57.14% 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+
+ Last Updated on 15/04/2025
+<!--END_SECTION:waka-->
+
+<!--
+**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
